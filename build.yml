@@ -1,0 +1,6 @@
+- build: examples/pcf8523
+  photon: [0.7.0]
+  argon: [0.8.0-rc.26]
+  boron: [0.8.0-rc.26]
+  xenon: [0.8.0-rc.26]
+  
