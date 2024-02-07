@@ -3,6 +3,8 @@ Particle port of the Adafruit RTClib (https://github.com/adafruit/RTClib)
 NOTE: Only the pcf8523 example has been ported and tested. This is the RTC included on the Adafruit Datalogger FeatherWing
 (https://www.adafruit.com/product/2922) and is the only one I needed.
 
+- 2024-02-07 Updated to upstream version 2.1.3
+
 ---
 
 This is a fork of JeeLab's fantastic real time clock library for Arduino.
